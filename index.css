@@ -1,0 +1,14 @@
+ @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+ body {
+    background-color: aquamarine;
+ }
+h1 {
+    font-family: 'Edu TAS Beginner', cursive;
+   color: brown;
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    color: darkorange;
+}
